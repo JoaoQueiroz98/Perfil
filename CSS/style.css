@@ -1,0 +1,137 @@
+
+body{
+
+    background-color:lightblue;
+    font-family:courier new;
+    margin:auto;
+    text-align: center;
+}
+a{
+    color:#4169e1;
+    text-decoration:none;
+    font-size: 22px;
+    font-family:candara;
+    font-weight:bold;
+}
+
+a:hover{
+    color:whitesmoke;
+}
+.td-menu{
+    font-family:candara;
+    background-color:lightskyblue;
+}
+.td-menu:hover{
+   color:blue
+}
+img{
+    border-radius:50%;
+}
+.título{
+    text-align:left;
+    font-family:candara;
+    color:black;
+    font-size:22px;
+}
+
+.texto{
+    font-family:candara;
+}
+.projetos{
+    font-size: 22px;
+    font-family:Courier New;
+}
+.Título-do-texto{
+   font-size: 36px;
+   font-family: courier;
+   font-weight: bold;
+}
+.módulo{
+    margin:auto;
+    font-family: courier new;
+    font-size: 18px;
+}
+.Módulo-2{
+    font-family: courier new;
+    margin:auto;
+    font-size:17px;
+}
+    
+.hr{
+    border-color:aquamarine; 
+    border:
+}
+.hr-2{
+    border-color: #4169e1;
+}
+.contato{
+    font-family: monospace;
+    font-size: 22px;
+}
+.projeto{
+    font-family: monospace;
+    font-size: 22px;
+    font-weight: bold;
+}
+.links{
+    font-family: courier new;
+    font-size: 17px;
+    font-weight: bold;
+}
+.foot{
+    font-size: 15px;
+}
+.foot-2{
+    font-size: 15px
+}
+p{
+ font-family: courier new;
+}
+.texto-curriculo {
+  font-weight: bold;
+  background-color: lightskyblue;
+  width:50%;
+  font-size:18px;
+}
+
+.titulo-curriculo{
+    font-size: 26px;
+    color:blue;
+}
+.titulo-paginas{
+    font-size: 60px;
+    font-weight: bold;
+    color:blue;
+    font-family:courier;
+}
+
+.table-principal{
+background-color: blue;>
+}
+.paragrafo1{
+    font-size: 25px
+}
+.paragrafo2{
+    font-size:25px
+}
+
+.projetos-tabela2{
+    font-size: 50px;
+    font-family:monospace;
+}
+.titulo-sobre{
+    font-size: 70px;
+    font-family:courier;
+    color:blue;
+    font-weight:bold;
+}
+.sobre{
+    font-size: 25px;
+    font-family:monospace;
+}
+.corpo-sobre{
+    margin:30px;
+}
+h1{
+    font-weight: bold;
+}
